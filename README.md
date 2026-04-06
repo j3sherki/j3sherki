@@ -1,5 +1,5 @@
 ###                                                                          Hi there 👋 I'm Jatin Sherki
-#                                                       "Data Analyst & Marketing Intern @Indmoney And Data Scientist @Almabetter"
+#                                                       "Data Analyst @Analog Device"
 
 
 
