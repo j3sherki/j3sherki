@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: Data Analyst & Marketing Intern @Indmoney And Data Scientist @Almabetter
+- 🔭 I’m currently working on: Data Analyst At @Analog Devices
 - 🌱 I’m currently learning: Python, SQL, Machine Learning, Deep Learning, NLP, AI
 - 👯 I’m looking to collaborate on: Data Analytics and Machine Learning , Deep Learning, NLP Projects.
 - 💬 Ask me about: Python, SQL, Machine Learning, Deep Learning, NLP, AI
